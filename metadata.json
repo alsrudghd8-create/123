@@ -1,0 +1,6 @@
+{
+  "name": "초등 4학년 나이스 성적 평어 생성기",
+  "description": "초등학교 4학년 교육과정에 맞춰 성취기준별로 학생들의 성취도(상·중·하)를 일괄 분류하고, 나이스(NEIS) 양식에 맞는 개별 생활기록부 평가 문구를 다채롭게 생성하여 일괄 업로드할 수 있게 돕는 프로그램입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
